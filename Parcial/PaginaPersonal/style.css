@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .profile-img {
+    width: 150px;
+    border-radius: 10%;
+    margin-top: 10px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    text-align: left;
+    margin-left: 40px;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  body.dark-mode {
+    background-color: #222;
+    color: #eee;
+  }
+  
